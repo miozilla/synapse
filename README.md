@@ -3,25 +3,25 @@ synapse : #azure_synapse_analytics #power_bi
 
 ## Synapse Analytics
 
-![synapser001.png](./media/synapser001.png)
+![synapse001.png](./media/synapse001.png)
 
-![synapser002.png](./media/synapser002.png)
+![synapse002.png](./media/synapse002.png)
 
-![synapser003.png](./media/synapser003.png)
+![synapse003.png](./media/synapse003.png)
 
-![synapser004.png](./media/synapser004.png)
+![synapse004.png](./media/synapse004.png)
 
-![synapser005.png](./media/synapser005.png)
+![synapse005.png](./media/synapse005.png)
 
-![synapser006.png](./media/synapser006.png)
+![synapse006.png](./media/synapse006.png)
 
-![synapser007.png](./media/synapser007.png)
+![synapse007.png](./media/synapse007.png)
 
-![synapser008.png](./media/synapser008.png)
+![synapse008.png](./media/synapse008.png)
 
-![synapser009.png](./media/synapser009.png)
+![synapse009.png](./media/synapse009.png)
 
-![synapser010.png](./media/synapser010.png)
+![synapse010.png](./media/synapse010.png)
 
-![synapser011.png](./media/synapser011.png)
+![synapse011.png](./media/synapse011.png)
 
