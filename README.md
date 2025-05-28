@@ -1,4 +1,4 @@
-# synapse
+# synapse :atom:
 synapse : #azure_synapse_analytics #power_bi
 
 ## Synapse Analytics
